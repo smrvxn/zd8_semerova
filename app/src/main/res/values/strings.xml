@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">zd8</string>
+    <string name="signin_text1">Регистрация</string>
+    <string name="signin_login">Логин</string>
+    <string name="signin_password">Пароль</string>
+    <string name="signin_adress">Адрес электронной почты</string>
+    <string name="menu_title">Список дел</string>
+    <string name="add_zd">Добавить задачу</string>
+    <string name="zd_sort1">Важные</string>
+    <string name="zd_sort2">По дате</string>
+    <string name="zd_sort3">Выполненные</string>
+    <string name="list_title">Список заметок</string>
+    <string name="list_tack1">Заметка 1</string>
+    <string name="list_tack2">Заметка 2</string>
+    <string name="list_tack3">Заметка 3</string>
+    <string name="list_tack4">Заметка 4</string>
+    <string name="list_tack5">Заметка 5</string>
+    <string name="add_title">Добавить задачу</string>
+    <string name="add_text1">Заголовок задачи</string>
+    <string name="add_text2">Время</string>
+    <string name="add_text3">Дата</string>
+    <string name="add_text4">Описание задачи</string>
+    <string name="add_button">Записать задачу</string>
+    <string name="change_title">Изменить задачу</string>
+    <string name="change_delete">Удалить задачу</string>
+    <string name="list_text">Обновить</string>
+
+    <string-array name="tasks">
+        <item>Task1</item>
+        <item>Task2</item>
+        <item>Task3</item>
+        <item>Task4</item>
+        <item>Task5</item>
+    </string-array>
+
+
+</resources>
